@@ -1,2 +1,2 @@
 # hello-world
-test
+Im just a simple man.
